@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/arpPoisoning.iml" filepath="$PROJECT_DIR$/.idea/arpPoisoning.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/FireWallProjectApplication.iml" filepath="$PROJECT_DIR$/.idea/FireWallProjectApplication.iml" />
->>>>>>> move to R&D on Linux + adding linux filter commands
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArpPosininng.iml" filepath="$PROJECT_DIR$/.idea/ArpPosininng.iml" />
     </modules>
   </component>
 </project>
